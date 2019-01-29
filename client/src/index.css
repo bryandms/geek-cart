@@ -1,0 +1,31 @@
+.w-100 {
+    width: 100% !important;
+}
+
+.right {
+    float: right !important;
+}
+
+.m-b {
+    margin-bottom: 2em !important;
+}
+
+a.nav-item:hover {
+    color: #555;
+}
+
+a.nav-item {
+    color: #000;
+}
+
+.br-l-0 {
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+}
+
+.box-number {
+    padding-left: 7px;
+    padding-right: 7px;
+    border: 1px solid #ddd;
+    margin: 0 !important;
+}
