@@ -1,17 +1,17 @@
 ## Geek Cart
 Shopping cart
 
-<h5 style="text-align: center;">Client</h5>
+##### Client
 
 ![Geek Cart Client](geek-cart-client.png)
 
-<h5 style="text-align: center;">Server</h5>
+##### Server
 
 ![Geek Cart Server](geek-cart-server.png)
 
 ### Steps
 
-##### Client
+##### Server
 
 Step 1: Clone or download the repo.
 
