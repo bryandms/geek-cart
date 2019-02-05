@@ -1,6 +1,14 @@
 ## Geek Cart
 Shopping cart
 
+<h5 style="text-align: center;">Client</h5>
+
+![Geek Cart Client](geek-cart-client.png)
+
+<h5 style="text-align: center;">Server</h5>
+
+![Geek Cart Server](geek-cart-server.png)
+
 ### Steps
 
 ##### Client
